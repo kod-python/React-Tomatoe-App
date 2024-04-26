@@ -27,14 +27,14 @@ const Footer = () => {
 			<div className="footer-content-right">
 				<h2>Get in Touch</h2>
 				<ul>
-				<li>+257 3894 2765</li>
-				<li>Tomato@gmail.com</li>
+				<li>+233550820999</li>
+				<li>koddeviper@gmail.com</li>
 				
 				</ul>
 			</div>
 		</div>
 		<hr />
-		<p className="footer-copyright">Copyright &copy; G H O S T</p>
+		<p className="footer-copyright">Copyright &copy; KOD-DEVIPER</p>
 	</div>
   );
 };
